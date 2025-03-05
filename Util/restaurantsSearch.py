@@ -18,6 +18,7 @@ params = {
 }
 
 def search(city: str):
+    print('fetching....')
     params['location'] = city
     response = requests.get(api, params=params)
     results = []
@@ -25,7 +26,6 @@ def search(city: str):
     if response.status_code != 200:
         print('something went wrong')
     else:
-        print('fetching....')
         results = response.json()['local_results'] #get the retaurants details as list
 
     #sort the restaurants by reviews in decending order

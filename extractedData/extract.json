@@ -1,62 +1,62 @@
 [
     {
-        "Truffles - Indiranagar": {
-            "rating": 4.5,
-            "reviews": 19000
-        }
-    },
-    {
-        "Burma Burma Restaurant & Tea Room": {
-            "rating": 4.5,
-            "reviews": 9000
-        }
-    },
-    {
-        "The Old House": {
-            "rating": 4.3,
-            "reviews": 8800
-        }
-    },
-    {
-        "South Ruchis Square,Organic Fine Dine Restaurant": {
-            "rating": 4.3,
-            "reviews": 8400
-        }
-    },
-    {
-        "The Only Place": {
+        "Peter Cat": {
             "rating": 4.2,
-            "reviews": 8100
+            "reviews": 38000
         }
     },
     {
-        "Olive Beach": {
-            "rating": 4.5,
-            "reviews": 8000
-        }
-    },
-    {
-        "Karavalli": {
-            "rating": 4.5,
-            "reviews": 3900
-        }
-    },
-    {
-        "Pasta Street - JP Nagar": {
-            "rating": 4.4,
-            "reviews": 3700
-        }
-    },
-    {
-        "Oota Bangalore": {
+        "Mocambo Restaurant and Bar": {
             "rating": 4.3,
-            "reviews": 3200
+            "reviews": 16000
         }
     },
     {
-        "No.10 Fort Cochin - Seafood Restaurant in Indiranagar, Bangalore": {
-            "rating": 4.6,
+        "Tung Fong Restaurant": {
+            "rating": 4.4,
+            "reviews": 7600
+        }
+    },
+    {
+        "Carpe Diem": {
+            "rating": 4.5,
+            "reviews": 7400
+        }
+    },
+    {
+        "Zam Zam Restaurant Pvt. Ltd.": {
+            "rating": 4.3,
+            "reviews": 7000
+        }
+    },
+    {
+        "Sufi Palace": {
+            "rating": 4.2,
+            "reviews": 4900
+        }
+    },
+    {
+        "The Saffron Tree": {
+            "rating": 4.3,
+            "reviews": 3800
+        }
+    },
+    {
+        "Swadhin Bharat Hindu Hotel": {
+            "rating": 4.1,
             "reviews": 2800
+        }
+    },
+    {
+        "Fabbrica - Originale": {
+            "rating": 4.3,
+            "reviews": 2600
+        }
+    },
+    {
+        "Food Station": {
+            "rating": 4.1,
+            "reviews": 2300
         }
     }
 ]
